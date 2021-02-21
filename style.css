@@ -81,9 +81,9 @@ nav{
     font-size: 16px;
 }
 .name h1{
-    font-family:Poppins;
+    font-family:Poppins, serif;
     font-size: 40px;
-    margin:0px;
+    margin:0;
     letter-spacing: 3px;
     color:#292929;
 }
@@ -143,4 +143,6 @@ nav{
     color:#17d1ac;
     transition: all ease 0.5s;
 }
+
+
 
